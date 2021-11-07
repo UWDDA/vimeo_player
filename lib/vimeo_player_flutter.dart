@@ -53,7 +53,7 @@ class VimeoPlayer extends StatelessWidget {
                 img-src * data: blob: android-webview-video-poster:; style-src * 'unsafe-inline';">
              </head>
              <body>
-                   <iframe src="https://vimeo.com/event/1463936/embed" 
+                   <iframe src="https://vimeo.com/event/$videoId/embed" 
                    frameborder="0" 
                    allow="autoplay; 
                    fullscreen; 
