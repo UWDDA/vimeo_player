@@ -114,7 +114,7 @@ class VimeoPlayerChat extends StatelessWidget {
                 img-src * data: blob: android-webview-video-poster:; style-src * 'unsafe-inline';">
              </head>
              <body>
-                   <iframe src="https://vimeo.com/event/$videoId/chat/" width="100%" height="600" frameborder="0"></iframe>
+                   <iframe src="https://vimeo.com/event/$videoId/chat/" width="100%" height="100%" frameborder="0"></iframe>
              </body>
             </html>
             ''';
