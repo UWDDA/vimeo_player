@@ -66,7 +66,6 @@ class VimeoPlayer extends StatelessWidget {
 //                 width="100%" height="100%" frameborder="0" allow="fullscreen" 
 //                 allowfullscreen></iframe>
                    <br>
-                   <iframe src="https://vimeo.com/event/$videoId/chat/" width="100%" height="600" frameborder="0"></iframe>
              </body>
             </html>
             ''';
